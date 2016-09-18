@@ -12,7 +12,7 @@ webpack --config "1-config.js" --config "2-config.js"
 webpack
 ```
 
-### Test single conflig flag
+### Test single config flag
 ```
 webpack --config "2-config.js"
 ```
